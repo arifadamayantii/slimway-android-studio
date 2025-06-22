@@ -1,1 +1,0 @@
-# slimway-android-studio
